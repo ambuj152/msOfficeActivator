@@ -48,6 +48,7 @@ explorer "http://github.io/ambuj152@gmail.com"
 goto halt
 :notsupported
 echo.
+
 echo ============================================================================
 echo Sorry! Your version is not supported.
 echo.
